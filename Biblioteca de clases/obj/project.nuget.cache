@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtRoeVAi07E+Kz7uDR6duWZUpj2WXL9FaMfPp9Sq7BuT1tRFlZ6AEnVT5LHGKbO/fs1gu8mOkme5meC8RTuP4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RODRIGO\\Desktop\\Rehaciendo parcial Centro medico\\Parcial Centro Médico\\Biblioteca de clases\\Biblioteca de clases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "consola para probar codigo/1.0.0": {
+        "runtime": {
+          "consola para probar codigo.dll": {}
+        }
+      },
+      "Biblioteca de clases/1.0.0": {
+        "runtime": {
+          "Biblioteca de clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consola para probar codigo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca de clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

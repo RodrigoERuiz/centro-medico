@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FgDq1hU+W6t6TODKOPIqAkMmOd3s2ZXmAZM9dEeOIvxQFwfeHhQwmv3mPQnLH4aL+gJDlLtro4iLb9hdeeviow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RODRIGO\\Desktop\\Rehaciendo parcial Centro medico\\Parcial Centro Médico\\formulario\\formulario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
